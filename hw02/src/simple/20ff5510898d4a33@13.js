@@ -13,7 +13,7 @@ Plot.plot({
 )}
 
 function _data(FileAttachment){return(
-FileAttachment("./data.json").json()
+FileAttachment("../data.json").json()
 )}
 
 function _plot1(Inputs){return(
