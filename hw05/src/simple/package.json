@@ -1,0 +1,14 @@
+{
+  "name": "64bd52db7f7ed6cd",
+  "main": "64bd52db7f7ed6cd@20.js",
+  "version": "20.0.0",
+  "homepage": "https://observablehq.com/d/64bd52db7f7ed6cd",
+  "author": {
+    "name": "Wang SungYu's Workspace",
+    "url": "https://observablehq.com/@wang-sungyu-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
