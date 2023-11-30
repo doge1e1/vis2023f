@@ -1,0 +1,14 @@
+{
+  "name": "5cbb3073bf20a5c1",
+  "main": "5cbb3073bf20a5c1@18.js",
+  "version": "18.0.0",
+  "homepage": "https://observablehq.com/d/5cbb3073bf20a5c1",
+  "author": {
+    "name": "Wang SungYu's Workspace",
+    "url": "https://observablehq.com/@wang-sungyu-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
